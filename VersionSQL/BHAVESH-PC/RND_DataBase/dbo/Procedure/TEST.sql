@@ -19,6 +19,13 @@ BEGIN
  select * from Employee
 
 
+ 	SET NOCOUNT ON;
+
+   select * from Employee
+
+    select * from Employee
+
+ select * from Employee
 
 
    
